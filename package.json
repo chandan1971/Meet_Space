@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/chandan1971/Meet_Space#readme",
   "dependencies": {
+    "all": "^0.0.0",
     "dotenv": "^16.4.5",
     "express": "^4.18.3",
     "nodemon": "^3.1.0"
